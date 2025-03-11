@@ -1,0 +1,1 @@
+# SVM-Powered-Parkinsons-Diagnosis-from-Speech
